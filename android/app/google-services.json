@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "799870452533",
+    "project_id": "beauty-saloon-app-41e85",
+    "storage_bucket": "beauty-saloon-app-41e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799870452533:android:71dd867099698e6e9ec27c",
+        "android_client_info": {
+          "package_name": "com.santosenoque.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799870452533-u6pu0mmjtcndcke4b7s63qp2vrn0l7tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdDIDsXrMmAoxa_kJaOLeABtTAhQB0BCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799870452533-u6pu0mmjtcndcke4b7s63qp2vrn0l7tm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799870452533-ln1pdciu78rb8bhut8685f61nrcvmlp8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santosenoque.booking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
